@@ -1,0 +1,5 @@
+com\book\CrudSpringJpaH2ProjectApplication.class
+com\book\entity\Book.class
+com\book\repository\BookRepository.class
+com\book\service\BookServiceImpl.class
+com\book\service\BookService.class
